@@ -1,6 +1,6 @@
 {
   "name": "react-routing-demo-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -38,7 +38,7 @@
     ]
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pratima-olixlab/my-test-demo-package.git"
